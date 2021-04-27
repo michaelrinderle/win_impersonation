@@ -6,7 +6,7 @@ C# wrapper for Win32 Impersonation API
 
 # interface
 
-```
+```csharp
 
 // user the current user to impersonate
 
